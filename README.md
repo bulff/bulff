@@ -6,7 +6,7 @@ Currently quite obsessed with webservers in Python using FASTAPI.
 
 ---
 
-# What have I worked with
+## What have I worked with
 
 The following is a list of frameworks and programming languages I have worked with (some of which can be found on my GitHub page :-))
 
@@ -30,6 +30,6 @@ Many of me repositories are private, if you are interested in seeing some of my 
 
 ---
 
-# How to reach me
+## How to reach me
 
 You can reach me on bulff@icloud.com 
