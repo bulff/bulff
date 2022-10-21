@@ -1,4 +1,4 @@
-#About me
+# About me
 
 Hello I am Thomas Wulff Heissel. A 23 year old computer science bachelor student at the institute of mathematics and computer science @ SDU, formally know as IMADA.
 I am very interested in new technologies and strive for new knowledge every day. If you are interested in collaborating on a project then feel free to contact me.
@@ -6,7 +6,7 @@ Currently quite obsessed with webservers in Python using FASTAPI.
 
 ---
 
-#What have I worked with
+# What have I worked with
 
 The following is a list of frameworks and programming languages I have worked with (some of which can be found on my GitHub page :-))
 
@@ -30,6 +30,6 @@ Many of me repositories are private, if you are interested in seeing some of my 
 
 ---
 
-#How to reach me
+# How to reach me
 
 You can reach me on bulff@icloud.com 
